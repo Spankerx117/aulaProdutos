@@ -26,7 +26,7 @@ namespace dotnet
         public override string PrecoFinal()
         {
             return $"{Nome} - {PrecoTotal().ToString("c")}"+
-            $"(Custos de importação:  {TaxaImportacao.ToString()})";
+            $"(Custos de importação:  {TaxaImportacao.ToString("c")})";
                    
         }
 

@@ -1,0 +1,15 @@
+C:\VS novo\Gtdown\aulaProdutos\bin\Debug\net8.0\dotnet.exe
+C:\VS novo\Gtdown\aulaProdutos\bin\Debug\net8.0\dotnet.deps.json
+C:\VS novo\Gtdown\aulaProdutos\bin\Debug\net8.0\dotnet.runtimeconfig.json
+C:\VS novo\Gtdown\aulaProdutos\bin\Debug\net8.0\dotnet.dll
+C:\VS novo\Gtdown\aulaProdutos\bin\Debug\net8.0\dotnet.pdb
+C:\VS novo\Gtdown\aulaProdutos\obj\Debug\net8.0\dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS novo\Gtdown\aulaProdutos\obj\Debug\net8.0\dotnet.AssemblyInfoInputs.cache
+C:\VS novo\Gtdown\aulaProdutos\obj\Debug\net8.0\dotnet.AssemblyInfo.cs
+C:\VS novo\Gtdown\aulaProdutos\obj\Debug\net8.0\dotnet.csproj.CoreCompileInputs.cache
+C:\VS novo\Gtdown\aulaProdutos\obj\Debug\net8.0\dotnet.sourcelink.json
+C:\VS novo\Gtdown\aulaProdutos\obj\Debug\net8.0\dotnet.dll
+C:\VS novo\Gtdown\aulaProdutos\obj\Debug\net8.0\refint\dotnet.dll
+C:\VS novo\Gtdown\aulaProdutos\obj\Debug\net8.0\dotnet.pdb
+C:\VS novo\Gtdown\aulaProdutos\obj\Debug\net8.0\dotnet.genruntimeconfig.cache
+C:\VS novo\Gtdown\aulaProdutos\obj\Debug\net8.0\ref\dotnet.dll
